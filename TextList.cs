@@ -9,13 +9,13 @@ namespace Task3
 	class TextList
 	{
 		public float IndexGolcmana { get; set; }
-		public List<string> rusStringList { get; set; } = new List<string>();
-		public List<string> engStringList { get; set; } = new List<string>();
+		public List<string> RusStringList { get; set; } = new List<string>();
+		public List<string> EngStringList { get; set; } = new List<string>();
 
 		public TextList(string str, float indexGolcmana)
 		{
 			IndexGolcmana = indexGolcmana;
-			rusStringList.Add(str);
+			RusStringList.Add(str);
 		}
 	}
 }

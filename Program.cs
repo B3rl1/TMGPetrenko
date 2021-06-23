@@ -47,12 +47,12 @@ namespace Task3
 			{
 				Console.WriteLine();
 				Console.WriteLine($"Для строк(и) с индексом Петренко-Гольцмана {textList.Key}:");
-				foreach (var str in textList.Value.rusStringList.Distinct())
+				foreach (var str in textList.Value.RusStringList.Distinct())
 				{
 					Console.WriteLine("\t" + str);
 				}
 				Console.WriteLine($"Подходят следующие английские строк(и) с индексом Петренко-Гольцмана {textList.Key}:");
-				foreach (var str in textList.Value.engStringList.Distinct())
+				foreach (var str in textList.Value.EngStringList.Distinct())
 				{
 					Console.WriteLine("\t" + str);
 				}
@@ -96,7 +96,7 @@ namespace Task3
 					//Метод словаря ContainsKey выполняется за время близкое к O(1).
 					if (RusDictionary.ContainsKey(sumByString))
 					{
-						RusDictionary[sumByString].rusStringList.Add(str[i]);
+						RusDictionary[sumByString].RusStringList.Add(str[i]);
 					}
 					else
 					{
@@ -106,7 +106,7 @@ namespace Task3
 				else
 				{
 					if (RusDictionary.ContainsKey(sumByString))
-						RusDictionary[sumByString].engStringList.Add(str[i]);
+						RusDictionary[sumByString].EngStringList.Add(str[i]);
 				}
 			}
 		}
