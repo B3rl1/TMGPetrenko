@@ -1,0 +1,16 @@
+S:\VS Project\MostGames\Task3\Task3\bin\Debug\net5.0\Task3.exe
+S:\VS Project\MostGames\Task3\Task3\bin\Debug\net5.0\Task3.deps.json
+S:\VS Project\MostGames\Task3\Task3\bin\Debug\net5.0\Task3.runtimeconfig.json
+S:\VS Project\MostGames\Task3\Task3\bin\Debug\net5.0\Task3.runtimeconfig.dev.json
+S:\VS Project\MostGames\Task3\Task3\bin\Debug\net5.0\Task3.dll
+S:\VS Project\MostGames\Task3\Task3\bin\Debug\net5.0\ref\Task3.dll
+S:\VS Project\MostGames\Task3\Task3\bin\Debug\net5.0\Task3.pdb
+S:\VS Project\MostGames\Task3\Task3\obj\Debug\net5.0\Task3.csprojAssemblyReference.cache
+S:\VS Project\MostGames\Task3\Task3\obj\Debug\net5.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+S:\VS Project\MostGames\Task3\Task3\obj\Debug\net5.0\Task3.AssemblyInfoInputs.cache
+S:\VS Project\MostGames\Task3\Task3\obj\Debug\net5.0\Task3.AssemblyInfo.cs
+S:\VS Project\MostGames\Task3\Task3\obj\Debug\net5.0\Task3.csproj.CoreCompileInputs.cache
+S:\VS Project\MostGames\Task3\Task3\obj\Debug\net5.0\Task3.dll
+S:\VS Project\MostGames\Task3\Task3\obj\Debug\net5.0\ref\Task3.dll
+S:\VS Project\MostGames\Task3\Task3\obj\Debug\net5.0\Task3.pdb
+S:\VS Project\MostGames\Task3\Task3\obj\Debug\net5.0\Task3.genruntimeconfig.cache
